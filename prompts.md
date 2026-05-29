@@ -17,3 +17,6 @@ Add images each to corresponding timeline boxes and make them small but fit insi
 
 # Prompt3
 Ensure each timeline scrolls horizontally on larger screens and veritically on smaller screens. Hide the description of each text and make them display over their corresponding box when hovering over them. Their color should match the upper half of the website.
+
+# Prompt4
+Make each of the timelines snap with to the start of each card horizontally for large screens and vertically for smaller screens
