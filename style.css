@@ -154,8 +154,9 @@ section div {
 
 
 /* Card hover animation */
-section div:hover {
-  transform: translateY(-5px);
+section div:hover, 
+section div:focus{
+  transform: scale(1.05);
 }
 
 
