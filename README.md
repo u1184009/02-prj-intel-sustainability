@@ -7,3 +7,5 @@ Build an interactive webpage that presents Intel's sustainability goals in a tim
 
 -Base Code by Global Career Accelerator, 2026
 -Finished By Mike Pham, 2026-05-29 
+-AI used to assist in creation: Chat GPT
+-Stock Images from https://unsplash.com/s/photos/intel
